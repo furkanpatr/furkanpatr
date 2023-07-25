@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I'm currently working on self-development<br>👯 I want to collaborate on backend development ideas<br>🤝 I'm looking for help with specific improvements you can share with me<br>🌱 I'm currently learning .NET Core & React<br>💬 Ask me about anything<br>⚡ Fun fact - I'm a part time barista🤪, coffee-lover
 
---
+##
 [![](https://visitcount.itsvg.in/api?id=furkanpatr&icon=6&color=3)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
