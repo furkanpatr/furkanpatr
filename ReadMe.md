@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 I'm currently working on self-development<br>👯 I want to collaborate on backend development ideas<br>🤝 I'm looking for help with specific improvements you can share with me<br>🌱 I'm currently learning .NET Core & React<br>💬 Ask me about anything<br>⚡ Fun fact - I'm a part time barista🤪, coffee-lover
 
+---
+[![](https://visitcount.itsvg.in/api?id=furkanpatr&icon=6&color=3)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/furkanpatr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/furkan-patir) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@furkan.patir) 
@@ -19,8 +21,5 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=furkanpatr&limit=5&theme=nord&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=furkanpatr&icon=6&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
